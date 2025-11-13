@@ -19,6 +19,7 @@
 .search-form input:hover {
   border-color: #000;
 }
+
 .search-form input:focus {
   border-color: #4e75ff;
 }
@@ -61,6 +62,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
+  padding: 30px;
 }
 
 .gallery a {
